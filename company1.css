@@ -1,0 +1,42 @@
+legend {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+fieldset {
+    max-width: 400px;
+    padding: 20px;
+}
+
+#recomm {
+    text-shadow: blue;
+    font-style: italic;
+    font-weight: bold;
+}
+
+body {
+    padding: 20px 250px 20px;
+}
+
+#fset2 {
+    padding: 0px;
+}
+
+#fset {
+    padding: 10px;
+    text-align: center;
+}
+
+button {
+    background-color: green;
+}
+
+#button {
+    max-width: 250px;
+    text-align: center;
+}
+
+#link {
+    padding-left: 200px;
+}
